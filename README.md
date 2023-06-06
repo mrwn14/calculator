@@ -22,20 +22,20 @@ To run this calculator, you need to have the following installed on your machine
 ```shell
 git clone https://github.com/mrwn14/calculator.git
 ```
-2 - Open a terminal or command prompt and navigate to the project directory:
+2. Open a terminal or command prompt and navigate to the project directory:
 ```shell
 cd Calculator
 ```
-3 - Compile the Java source code:
+3. Compile the Java source code:
 ```shell
 javac Calculator.java
 javac GUI.java
 ```
-4 - Run the program:
+4. Run the program:
 ```shell
 java GUI
 ```
-5 - The calculator window should open, and you can start performing calculations.
+5. The calculator window should open, and you can start performing calculations.
 ![image](https://github.com/mrwn14/calculator/assets/71093211/464bef81-7dd2-4be4-a551-af21606fc3c2)
 
 ## Usage
