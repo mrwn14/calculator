@@ -36,7 +36,7 @@ javac GUI.java
 java GUI
 ```
 5 - The calculator window should open, and you can start performing calculations.
-![Picture of the calculator window]![image](https://github.com/mrwn14/calculator/assets/71093211/464bef81-7dd2-4be4-a551-af21606fc3c2)
+![image](https://github.com/mrwn14/calculator/assets/71093211/464bef81-7dd2-4be4-a551-af21606fc3c2)
 
 ## Usage
 
